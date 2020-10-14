@@ -1,6 +1,6 @@
 # Desafio SQL - Analista de Dados
 
-Este desafio tem como objetivo testar suas habilidades em análise de dados utilizando SQL. O desafio é baseado em problemáticas reais, e visa ao máximo trazer a você um cenário próximo ao da realidade de um Analista de Dados SQL na HVAR Consulting.
+Este desafio tem como objetivo testar suas habilidades em análise de dados utilizando SQL. O desafio é baseado em problemáticas reais, e visa ao máximo trazer a você um cenário próximo ao da realidade de um Analista de Dados na HVAR Consulting.
 
 # Cenário
 
