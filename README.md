@@ -4,7 +4,7 @@ Este desafio tem como objetivo testar suas habilidades em análise de dados util
 
 # Cenário
 
-Para este desafio, considere o seguinte cenário: A HVAR Consulting está inaugruando sua mais nova solução de tecnologia, o HVendas. Nesse novo produto, _insights_ de vendas serão apresentados a clientes de forma customizada e aperfeiçada às necessidades deles. A solução segue um simples fluxo de processamento:
+Para este desafio, considere o seguinte cenário: A HVAR Consulting está inaugurando sua mais nova solução de tecnologia, o HVendas. Nesse novo produto, _insights_ de vendas serão apresentados a clientes de forma customizada e aperfeiçada às necessidades deles. A solução segue um simples fluxo de processamento:
 
 1. O cliente envia sua base de dados de vendas para o HVendas
 1. O cliente requisita uma análise específica de _insights_ de vendas
@@ -43,7 +43,7 @@ O cliente realizará em breve uma promoção no estado de São Paulo. Esta promo
 
 ## Requisição 2
 
-O cliente gostaria de recompensar revendedores que apresentam alta performance na plataforma. Para isso, o cliente precisa saber os vededores que fizeram mais vendas. Como forma de recompensação, o cliente oferecerá 20% de desconto para esses vendedores no frete de suas mercadorias da categoria mais vendida. Deixe claro na base de dados o valor original do frete, e o novo valor com desconto. O cliente também gostaria de saber quais as regiões que mais vendem produtos dessa categoria.
+O cliente gostaria de recompensar revendedores que apresentam alta performance na plataforma. Para isso, o cliente precisa saber os vendedores que fizeram mais vendas. Como forma de recompensação, o cliente oferecerá 20% de desconto para esses vendedores no frete de suas mercadorias da categoria mais vendida. Deixe claro na base de dados o valor original do frete, e o novo valor com desconto. O cliente também gostaria de saber quais as regiões que mais vendem produtos dessa categoria.
 
 ## Requisição 3
 
